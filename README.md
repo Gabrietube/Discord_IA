@@ -1,2 +1,6 @@
 # Discord_IA
-This Discord bot is capable of recognizing whether a beach is clean or not to solve the problem of beach pollution
+Este bot de discord es capaz de reconocer si una playa esta limpia o no para solucionar el problema de contaminacion de 
+playas
+
+Requisitos:
+1-Tener el modelo de IA de reconocimiento de imagenes
